@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	background:url(../img/boxed-bg.png) repeat center;
+    
+    
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+
+.login-box-body{
+    
+    color: #fff;    
+    background-color: rgba(25, 0, 0, 0.4);
+}
+
+img .logo{
+    
+    width: 10px;
+    height: 200px;
+}
